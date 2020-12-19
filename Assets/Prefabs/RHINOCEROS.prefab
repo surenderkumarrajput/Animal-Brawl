@@ -1,0 +1,1267 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &284392588874363780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1686110355039517064}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1686110355039517064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284392588874363780}
+  m_LocalRotation: {x: -0.49999967, y: 0.50000036, z: 0.49999967, w: 0.50000036}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2240960933693129717}
+  m_Father: {fileID: 6492044178582065645}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -90, y: 90, z: 0}
+--- !u!1 &461913008081535361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5800459800348687055}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5800459800348687055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 461913008081535361}
+  m_LocalRotation: {x: -0.49404362, y: -0.308337, z: 0.34559423, w: 0.7358083}
+  m_LocalPosition: {x: -0.3780258, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 6077407753917748776}
+  m_Father: {fileID: 148214648969376073}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -19.718433, y: -70.38211, z: 67.377846}
+--- !u!1 &580695590388350842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9010545259689694887}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9010545259689694887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580695590388350842}
+  m_LocalRotation: {x: -0.00039799677, y: -0.000010588727, z: 0.026593305, w: 0.99964625}
+  m_LocalPosition: {x: -0.37266752, y: -0.000000038146972, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 7477570139376685492}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.6523025, y: -9.733401, z: -4.8133993}
+--- !u!1 &902581457923755042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6975874513115514501}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6975874513115514501
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 902581457923755042}
+  m_LocalRotation: {x: 1.9278477e-14, y: 2.605754e-13, z: 0.1311666, w: 0.99136037}
+  m_LocalPosition: {x: -0.59875906, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1827562308246108472}
+  m_Father: {fileID: 7995582710440924445}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000000050211884, y: -0.0000009024411, z: 23.38039}
+--- !u!1 &1167250697916884151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7477570139376685492}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7477570139376685492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1167250697916884151}
+  m_LocalRotation: {x: -9.0152295e-11, y: 0.0000000018613728, z: 0.07955109, w: 0.99683076}
+  m_LocalPosition: {x: -0.4860884, y: 0.000000076293944, z: -0.000000038146972}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9010545259689694887}
+  m_Father: {fileID: 3506615104383444203}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000034988165, y: 0.00000054000776, z: 24.117365}
+--- !u!1 &1189344904942594589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2517135075653210305}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2517135075653210305
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1189344904942594589}
+  m_LocalRotation: {x: -7.007637e-14, y: -0.00000000675319, z: 0.0024348407, w: 0.9999971}
+  m_LocalPosition: {x: -0.18326728, y: -0.00015930175, z: -4.4179613e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6731939775298796814}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.08920102, y: 5.292771, z: -5.262339}
+--- !u!1 &1236966714587928274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1522731255846092306}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1522731255846092306
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236966714587928274}
+  m_LocalRotation: {x: 6.1007114e-14, y: -1.496099e-13, z: 0.13116658, w: 0.99136037}
+  m_LocalPosition: {x: -0.63930976, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 1091922527715892292}
+  m_Father: {fileID: 8755191321865000780}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000012638762, y: -0.0000046658147, z: 21.879025}
+--- !u!1 &1753367434812392980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1827562308246108472}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1827562308246108472
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753367434812392980}
+  m_LocalRotation: {x: 0.00000066409325, y: -0.0000008138536, z: -0.10052989, w: 0.994934}
+  m_LocalPosition: {x: -0.399465, y: 0.000000076293944, z: -0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6975874513115514501}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.7606717, y: 7.881127, z: -16.441618}
+--- !u!1 &1829498501419211768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6492044178582065645}
+  m_Layer: 0
+  m_Name: RHINOCEROS_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6492044178582065645
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1829498501419211768}
+  m_LocalRotation: {x: 8.4845444e-17, y: -8.4845444e-17, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 1.297945, z: -1.0491885}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4628087955895525706}
+  - {fileID: 1686110355039517064}
+  m_Father: {fileID: 3104421998033079069}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 8.444092e-15, y: 0.18719637, z: 90}
+--- !u!1 &1942399906429470433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8203749487503257842}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8203749487503257842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942399906429470433}
+  m_LocalRotation: {x: 0.0003979965, y: 0.000010587789, z: 0.026593307, w: 0.99964625}
+  m_LocalPosition: {x: -0.37266752, y: -0.000000076293944, z: -0.000000076293944}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 6077407753917748776}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 2.2981095, y: 11.266923, z: -4.611445}
+--- !u!1 &2111702804111128846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3104421998033079069}
+  - component: {fileID: -224505430571568645}
+  - component: {fileID: -1669379081626927514}
+  - component: {fileID: -7986282325344135145}
+  - component: {fileID: 5816917070061708796}
+  m_Layer: 8
+  m_Name: RHINOCEROS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3104421998033079069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111702804111128846}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7610687112742176142}
+  - {fileID: 6492044178582065645}
+  - {fileID: 760024104580187449}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &-224505430571568645
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111702804111128846}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5207b410dfbdeda4bbebdfdcded14d41, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &-1669379081626927514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111702804111128846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfadc21506f9caa4d83407abde5f6bec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animalInfo: {fileID: 11400000, guid: f966bc3e1a5d37d4e8d92ff20dbe8e59, type: 2}
+  anim: {fileID: 0}
+  destinationReached: 0
+  position: {x: 0, y: 0, z: 0}
+  canvas: {fileID: 760024104580187454}
+--- !u!54 &-7986282325344135145
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111702804111128846}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &5816917070061708796
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111702804111128846}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.5643828, y: 1.9355116, z: 4.3406157}
+  m_Center: {x: -0.024187803, y: 1.0322876, z: 0.68160415}
+--- !u!1 &2177699890530420899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7995582710440924445}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7995582710440924445
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2177699890530420899}
+  m_LocalRotation: {x: 0.7288508, y: -0.6846726, z: -0.000000957529, w: 0.000000013989748}
+  m_LocalPosition: {x: 0.39750624, y: 0.0009417724, z: -0.41681865}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6975874513115514501}
+  m_Father: {fileID: 2240960933693129717}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -8.05586, y: 179.44899, z: -96.86931}
+--- !u!1 &2182333523466219595
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2240960933693129717}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2240960933693129717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2182333523466219595}
+  m_LocalRotation: {x: -0.0000020804762, y: 0.000000693676, z: -0.00039815903, w: 0.99999994}
+  m_LocalPosition: {x: -0.39750692, y: -0.00062408444, z: 0.0000005521283}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8755191321865000780}
+  - {fileID: 7995582710440924445}
+  - {fileID: 978473918720949633}
+  - {fileID: 2471507844820754544}
+  m_Father: {fileID: 1686110355039517064}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00023991334, y: 0.1879043, z: -0.0456255}
+--- !u!1 &2683144314236429709
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8453076480659567515}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8453076480659567515
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2683144314236429709}
+  m_LocalRotation: {x: 7.197631e-14, y: -0.00000009308272, z: 0.033560272, w: 0.99943674}
+  m_LocalPosition: {x: -0.19036719, y: -0.00015258789, z: -4.231697e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6731939775298796814}
+  m_Father: {fileID: 1077059117344794953}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.22725457, y: 5.290009, z: 4.834423}
+--- !u!1 &2712848956051883925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2553236595055182164}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2553236595055182164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2712848956051883925}
+  m_LocalRotation: {x: 2.1744908e-14, y: 0.00000012098273, z: -0.043619394, w: 0.99904823}
+  m_LocalPosition: {x: -0.78970486, y: -0.068965755, z: -0.00000010077987}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 148214648969376073}
+  - {fileID: 4337675717064419927}
+  - {fileID: 1370516535490678180}
+  m_Father: {fileID: 978473918720949633}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.016924314, y: 0.122272976, z: -5.1642203}
+--- !u!1 &3278873556766001376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3506615104383444203}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3506615104383444203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3278873556766001376}
+  m_LocalRotation: {x: 0.49431938, y: 0.30804014, z: 0.3452956, w: 0.7358876}
+  m_LocalPosition: {x: -0.37802595, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 7477570139376685492}
+  m_Father: {fileID: 1370516535490678180}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 21.259394, y: 71.26082, z: 66.78}
+--- !u!1 &3343851289960738847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2491790520002087712}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Neck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2491790520002087712
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3343851289960738847}
+  m_LocalRotation: {x: -3.6245837e-14, y: 0.00000012098275, z: -0.04361939, w: 0.99904823}
+  m_LocalPosition: {x: -0.25918135, y: -0.00020553588, z: -5.7014404e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 7066992730991575974}
+  m_Father: {fileID: 4337675717064419927}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.087364234, y: 0.087168545, z: -5.161021}
+--- !u!1 &3812035597673670369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7066992730991575974}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7066992730991575974
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3812035597673670369}
+  m_LocalRotation: {x: -8.712868e-13, y: -0.000001062431, z: 0.38305184, w: 0.92372686}
+  m_LocalPosition: {x: -0.2591636, y: 0, z: 2.910383e-13}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 7226887840063564807}
+  m_Father: {fileID: 2491790520002087712}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.15131256, y: -0.80194587, z: 45.374584}
+--- !u!1 &4246309573569320785
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6731939775298796814}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6731939775298796814
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4246309573569320785}
+  m_LocalRotation: {x: 2.9290166e-14, y: -0.0000000041563957, z: 0.0014986004, w: 0.99999887}
+  m_LocalPosition: {x: -0.19197716, y: -0.00014587402, z: -4.0396117e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2517135075653210305}
+  m_Father: {fileID: 8453076480659567515}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.07936736, y: 5.2929063, z: -5.368612}
+--- !u!1 &4338496756992776138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7610687112742176142}
+  - component: {fileID: 6484204857236620226}
+  m_Layer: 0
+  m_Name: RHINOCEROS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7610687112742176142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4338496756992776138}
+  m_LocalRotation: {x: 0.000000053385083, y: 0.7071068, z: 0.7071068, w: -0.000000053385083}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3104421998033079069}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6484204857236620226
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4338496756992776138}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 06a1b9dba31b62b4086b20a9e03c6ee7, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 2958c86caa764c0479a11d0c8aab6e4b, type: 3}
+  m_Bones:
+  - {fileID: 978473918720949633}
+  - {fileID: 2240960933693129717}
+  - {fileID: 2553236595055182164}
+  - {fileID: 148214648969376073}
+  - {fileID: 1686110355039517064}
+  - {fileID: 1370516535490678180}
+  - {fileID: 7066992730991575974}
+  - {fileID: 4337675717064419927}
+  - {fileID: 7995582710440924445}
+  - {fileID: 2491790520002087712}
+  - {fileID: 7226887840063564807}
+  - {fileID: 6077407753917748776}
+  - {fileID: 8203749487503257842}
+  - {fileID: 1827562308246108472}
+  - {fileID: 3506615104383444203}
+  - {fileID: 7477570139376685492}
+  - {fileID: 9010545259689694887}
+  - {fileID: 6975874513115514501}
+  - {fileID: 8755191321865000780}
+  - {fileID: 5800459800348687055}
+  - {fileID: 1522731255846092306}
+  - {fileID: 1091922527715892292}
+  - {fileID: 2471507844820754544}
+  - {fileID: 1077059117344794953}
+  - {fileID: 8453076480659567515}
+  - {fileID: 6731939775298796814}
+  - {fileID: 2517135075653210305}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 1686110355039517064}
+  m_AABB:
+    m_Center: {x: -1.7934788, y: 0.136118, z: 0.044213355}
+    m_Extent: {x: 2.4762862, y: 1.557581, z: 1.2153606}
+  m_DirtyAABB: 0
+--- !u!1 &5078610160261040272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2471507844820754544}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2471507844820754544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5078610160261040272}
+  m_LocalRotation: {x: 1.2130786e-13, y: 0.0000020472255, z: -0.73811126, w: 0.67467904}
+  m_LocalPosition: {x: 0.8446699, y: -0.1531424, z: -0.00000068089076}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1077059117344794953}
+  m_Father: {fileID: 2240960933693129717}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -7.785166, y: 0.43878487, z: -97.7939}
+--- !u!1 &5264718132699167819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8755191321865000780}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8755191321865000780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5264718132699167819}
+  m_LocalRotation: {x: 0.7288508, y: -0.6846726, z: -0.0000009575289, w: 0.000000013989835}
+  m_LocalPosition: {x: 0.39750624, y: 0.000939331, z: 0.41681865}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1522731255846092306}
+  m_Father: {fileID: 2240960933693129717}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 8.758301, y: -157.97006, z: -96.04445}
+--- !u!1 &5632162856716159376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6077407753917748776}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6077407753917748776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5632162856716159376}
+  m_LocalRotation: {x: -3.4190412e-10, y: -0.00000000376442, z: 0.079551086, w: 0.99683076}
+  m_LocalPosition: {x: -0.48608848, y: 0.000000076293944, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 8203749487503257842}
+  m_Father: {fileID: 5800459800348687055}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000000529511, y: -0.000003995983, z: 22.867226}
+--- !u!1 &6565079676623394612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1370516535490678180}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1370516535490678180
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6565079676623394612}
+  m_LocalRotation: {x: 0.5633516, y: -0.18369263, z: 0.78503424, w: -0.18059146}
+  m_LocalPosition: {x: -0.000055160523, y: 0.06922485, z: -0.14766963}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 3506615104383444203}
+  m_Father: {fileID: 2553236595055182164}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 4.7178335, y: 72.49813, z: -150.44728}
+--- !u!1 &6582697701847033414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1091922527715892292}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1091922527715892292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6582697701847033414}
+  m_LocalRotation: {x: 0.0000006640932, y: -0.0000008138532, z: -0.10052987, w: 0.994934}
+  m_LocalPosition: {x: -0.39946502, y: 0.000000076293944, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1522731255846092306}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.2295945, y: -8.47143, z: -15.669726}
+--- !u!1 &6697171082402038149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7226887840063564807}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Queue de cheval 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7226887840063564807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6697171082402038149}
+  m_LocalRotation: {x: 1.1859955e-12, y: 0.0000016396796, z: -0.59117436, w: 0.8065438}
+  m_LocalPosition: {x: 0.18563004, y: 0.42315933, z: 0.00000035532545}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7066992730991575974}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00009568606, y: 0.00014770913, z: -66.81999}
+--- !u!1 &6810397141012368859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1077059117344794953}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1077059117344794953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6810397141012368859}
+  m_LocalRotation: {x: 1.9023326e-13, y: 0.00000005893463, z: -0.021248389, w: 0.9997742}
+  m_LocalPosition: {x: -0.21160842, y: -0.00015136719, z: -4.202593e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8453076480659567515}
+  m_Father: {fileID: 2471507844820754544}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0006771311, y: -0.20492804, z: 1.02722}
+--- !u!1 &6942472933162361142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4628087955895525706}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Footsteps
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4628087955895525706
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6942472933162361142}
+  m_LocalRotation: {x: -0.50000036, y: 0.49999967, z: -0.49999967, w: 0.50000036}
+  m_LocalPosition: {x: -1.3285893, y: -0.000001742182, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6492044178582065645}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000076866694, y: 90, z: -90.187195}
+--- !u!1 &7213838448674790024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 978473918720949633}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &978473918720949633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7213838448674790024}
+  m_LocalRotation: {x: 2.1744908e-14, y: -0.00000012098273, z: 0.043619394, w: 0.99904823}
+  m_LocalPosition: {x: -0.7836717, y: -0.00062179565, z: -0.000000001724402}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2553236595055182164}
+  m_Father: {fileID: 2240960933693129717}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -0.009919867, y: 0.20618318, z: 4.8425455}
+--- !u!1 &8551586799944787964
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 148214648969376073}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &148214648969376073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8551586799944787964}
+  m_LocalRotation: {x: -0.5634085, y: 0.18328391, z: 0.7851531, w: -0.18031217}
+  m_LocalPosition: {x: -0.000055160523, y: 0.06922409, z: 0.14766985}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 5800459800348687055}
+  m_Father: {fileID: 2553236595055182164}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -4.69309, y: -72.7265, z: -150.52655}
+--- !u!1 &8614938983657991184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4337675717064419927}
+  m_Layer: 0
+  m_Name: RHINOCEROS_ Neck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4337675717064419927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8614938983657991184}
+  m_LocalRotation: {x: 1.908636e-13, y: 0.00000012098272, z: -0.043619383, w: 0.99904823}
+  m_LocalPosition: {x: -0.25918135, y: -0.00020553588, z: -5.7028954e-10}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2491790520002087712}
+  m_Father: {fileID: 2553236595055182164}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.05502092, y: 0.11048125, z: -5.1621404}
+--- !u!1001 &8741990717243901847
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3104421998033079069}
+    m_Modifications:
+    - target: {fileID: 8349092999017479501, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_Text
+      value: Wolf
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863978, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_Name
+      value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863978, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 5.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1080
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.007185342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.007185342
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.007185342
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa7d6e16721e13f4eb9f9078ea4972fe, type: 3}
+--- !u!224 &760024104580187449 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 8349092999319863982, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+    type: 3}
+  m_PrefabInstance: {fileID: 8741990717243901847}
+  m_PrefabAsset: {fileID: 0}
+--- !u!223 &760024104580187454 stripped
+Canvas:
+  m_CorrespondingSourceObject: {fileID: 8349092999319863977, guid: fa7d6e16721e13f4eb9f9078ea4972fe,
+    type: 3}
+  m_PrefabInstance: {fileID: 8741990717243901847}
+  m_PrefabAsset: {fileID: 0}
